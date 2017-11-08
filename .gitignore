@@ -1,5 +1,7 @@
 /.php_cs.cache
 
+/app/config/deploy.rb
+/app/config/deploy_stages
 /app/config/parameters.yml
 /app/config/*.local.yml
 /var/*
@@ -24,3 +26,6 @@
 /behat.yml
 /phpunit.xml
 /phpspec.yml
+
+/Capfile
+
